@@ -1,0 +1,6 @@
+streamlit
+python-telegram-bot
+google-genai
+python-dotenv
+playwright
+PyMuPDF
